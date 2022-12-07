@@ -1,0 +1,52 @@
+header{
+    text-align:center;
+}
+
+.header{
+    background-color:rgb(252, 243, 234);
+    border-top: 2px solid bisque;
+    margin-top:20px;
+}
+
+.subtitle{
+    color:rgba(16, 72, 53, 0.993);
+    padding-bottom:16px;
+    font-size:1em;
+}
+
+.thanks{
+    font-weight:700;
+}
+
+main{
+    margin-left:28%;
+    margin-right:28%;
+    margin-top: 5%;
+    font-size:1em;
+
+}
+h1{
+    text-align:center;
+    font-size:2.3em;
+}
+h4{
+    color:brown
+}
+.grey{
+    color:grey;
+    text-align:center;
+}
+
+.ori{
+    border-left:2px solid bisque;
+    padding-left:15px;
+}
+
+.line{
+    color: rgb(0, 200, 255);
+
+}
+footer{
+    margin-left:28%;
+    margin-right:28%
+}
